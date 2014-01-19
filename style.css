@@ -39,7 +39,7 @@ text-transform: lowercase;
 }
 
 H2 {
-color: #555;
+color: #9DB4AA;
 font-family: Arial;
 font-size: 9px;
 text-align: center;
@@ -76,8 +76,8 @@ text-transform: uppercase;
 	padding-bottom: 50px; 
 	width: 280px; 
 	text-align: center;
-	background: #F4FBF7;
-    border-radius: 450px; 
+	background: #424242;
+    border-radius: 200px; 
 	z-index: 2;
 	}
 
